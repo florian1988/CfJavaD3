@@ -32,11 +32,7 @@ public class InternediateA6 {
 
         }else if (Outcome2 == 0) {
 
-            if (Outcome1 == 0) {
-                System.out.println("FizzBuzz!!!");
-            } else {
                 System.out.println("BUZZ");
-            }
 
         } else {
             System.out.println(InputNumber);
